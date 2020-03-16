@@ -42,7 +42,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.tabbar-item{
 		flex: 1;
 		text-align: center;
